@@ -38,6 +38,8 @@ Through this project, I tried:
 
 
 ## 🛠️ Tech Stack
+<h4>
 Language: Python🐍
 
 GUI Library: Tkinter (built-in with Python)
+</h4>
